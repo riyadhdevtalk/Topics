@@ -1,3 +1,6 @@
+## .net framework
+  * .net Core
+
 ## Java
   * Java Threading
   * Java 8 (streams, Lambda, DateTime api)
