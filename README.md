@@ -1,3 +1,6 @@
+# Topics:
+Riyadh Dev Talk belives in diversity, it is technology agnostic. We talk in each and everything related to how software is built.
+
 ## .net framework
   * .net Core
 
